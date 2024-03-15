@@ -1,0 +1,87 @@
+                                                /* СТИЛИЗАЦИЯ */
+
+/* 8!!
+#myDiv {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+} */
+
+/* 10-11
+#elem {
+	width: 200px;
+	height: 200px;
+} */
+
+/* 12
+#elem {
+	font-size: 2em;
+} */
+
+/* 13
+.even {
+    color: red;
+}
+
+.odd {
+    color: green;
+} */
+
+/* 14
+.red {
+    color: red;
+} */
+
+/* 15
+.valid {
+    border: 2px solid green;
+}
+
+.invalid {
+    border: 2px solid red;
+} */
+
+/* 16
+.green {
+    border: 2px solid green;
+}
+
+.yellow {
+    border: 2px solid yellow;
+}
+
+.red {
+    border: 2px solid red;
+} */
+
+
+
+ /* МЕТРИКИ ЭЛЕМЕНТОВ */
+ /* #textWindow {
+    width: 300px;
+    height: 150px;
+    margin: 50px auto;
+    padding: 25px;
+    background: #CFF5BF;
+    border: 25px solid #F0D7A1;
+    overflow-y: scroll;
+    overflow-x: scroll; 
+    text-align: justify;
+} */
+
+
+/* 21 */
+/* #scrollable {
+    height: 200px;
+    overflow-y: auto;
+  } */
+
+
+
+
+
+
+   /* SET                                                   */
+   /* .clicked {
+    background-color: lightblue;
+} */
